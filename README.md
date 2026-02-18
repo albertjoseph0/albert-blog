@@ -7,7 +7,7 @@ A simple static blog. No frameworks, no build step.
 1. Copy `template.html` into `articles/` with a slug name (e.g., `my-new-post.html`).
 2. Replace `ARTICLE TITLE` and `DATE` in the new file.
 3. Write your content. Use [markdowntohtml.com](https://markdowntohtml.com) to convert plain text or Markdown into HTML.
-4. Add a link to `index.html`.
+4. Add a link (just the article name) to `index.html`.
 5. Commit and push.
 
 ## Deploying to GitHub Pages
